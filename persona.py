@@ -1,6 +1,6 @@
 class  Persona:
 
-    def __init__(self, nombre: str = "Pedro", apellido: str = "Chavez",dni: str = "46396875"):
+    def __init__(self, nombre: str = "Gino", apellido: str = "reginato",dni: str = "46396875"):
         __atributo1__= 0
         self.__nombre__ = nombre
         self.__apellido__ = apellido
